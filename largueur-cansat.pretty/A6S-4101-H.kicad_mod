@@ -1,0 +1,8 @@
+(module A6S-4101-H (layer F.Cu) (tedit 5CDE6D33)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value A6S-4101-H (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

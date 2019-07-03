@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name ATSAM4)(type Legacy)(uri ${KIPRJMOD}/libs/ATSAM4.lib)(options "")(descr ""))
+  (lib (name lora_RFM9x)(type Legacy)(uri ${KIPRJMOD}/libs/lora_RFM9x.lib)(options "")(descr ""))
+  (lib (name TPS22917)(type Legacy)(uri ${KIPRJMOD}/libs/TPS22917.lib)(options "")(descr ""))
+  (lib (name LM74610)(type Legacy)(uri ${KIPRJMOD}/libs/LM74610.lib)(options "")(descr ""))
+  (lib (name FR015L3EZ)(type Legacy)(uri ${KIPRJMOD}/libs/FR015L3EZ.lib)(options "")(descr ""))
+  (lib (name LMS33460)(type Legacy)(uri ${KIPRJMOD}/libs/LMS33460.lib)(options "")(descr ""))
+  (lib (name BMP388)(type Legacy)(uri ${KIPRJMOD}/libs/BMP388.lib)(options "")(descr ""))
+  (lib (name TPS6132xA)(type Legacy)(uri ${KIPRJMOD}/libs/TPS6132xA.lib)(options "")(descr ""))
+)

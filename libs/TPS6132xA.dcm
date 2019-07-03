@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS6132xA
+F http://www.ti.com/lit/ds/symlink/tps61322.pdf
+$ENDCMP
+#
+#End Doc Library
